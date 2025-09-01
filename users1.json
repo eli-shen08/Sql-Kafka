@@ -1,0 +1,37 @@
+[
+    {
+        "id": 44,
+        "name": "Book - Non-Fiction 1",
+        "category": "Books",
+        "price": 15,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 51,
+        "name": "Table Lamp",
+        "category": "Furniture",
+        "price": 30,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 53,
+        "name": "Office Chair",
+        "category": "Furniture",
+        "price": 90,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 41,
+        "name": "Book - Fiction 1",
+        "category": "Books",
+        "price": 9,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 49,
+        "name": "Book - Data Science",
+        "category": "Books",
+        "price": 45,
+        "last_updated": "2025-08-31 02:29:22"
+    }
+]

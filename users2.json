@@ -1,0 +1,37 @@
+[
+    {
+        "id": 59,
+        "name": "Coffee Table",
+        "category": "Furniture",
+        "price": 80,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 45,
+        "name": "Book - Non-Fiction 2",
+        "category": "Books",
+        "price": 20,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 52,
+        "name": "Study Table",
+        "category": "Furniture",
+        "price": 120,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 58,
+        "name": "Bookshelf Wooden",
+        "category": "Furniture",
+        "price": 150,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 43,
+        "name": "Book - Fiction 3",
+        "category": "Books",
+        "price": 13,
+        "last_updated": "2025-08-31 02:29:22"
+    }
+]

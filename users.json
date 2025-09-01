@@ -1,0 +1,212 @@
+[
+    {
+        "id": 12,
+        "name": "T-Shirt Black",
+        "category": "Apparel",
+        "price": 21,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 31,
+        "name": "Book - Fiction 1",
+        "category": "Books",
+        "price": 9,
+        "last_updated": "2025-08-31 02:18:04"
+    },
+    {
+        "id": 44,
+        "name": "Book - Non-Fiction 1",
+        "category": "Books",
+        "price": 15,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 51,
+        "name": "Table Lamp",
+        "category": "Furniture",
+        "price": 30,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 53,
+        "name": "Office Chair",
+        "category": "Furniture",
+        "price": 90,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 9,
+        "name": "Camera C1",
+        "category": "Electronics",
+        "price": 450,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 11,
+        "name": "T-Shirt Blue",
+        "category": "Apparel",
+        "price": 19,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 25,
+        "name": "Refrigerator 190L",
+        "category": "Home",
+        "price": 350,
+        "last_updated": "2025-08-31 02:15:56"
+    },
+    {
+        "id": 30,
+        "name": "Vacuum Cleaner Pro",
+        "category": "Home",
+        "price": 200,
+        "last_updated": "2025-08-31 02:15:56"
+    },
+    {
+        "id": 47,
+        "name": "Book - Programming",
+        "category": "Books",
+        "price": 35,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 50,
+        "name": "Book - Machine Learning",
+        "category": "Books",
+        "price": 50,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 6,
+        "name": "Headphones X2",
+        "category": "Electronics",
+        "price": 79,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 29,
+        "name": "Vacuum Cleaner Basic",
+        "category": "Home",
+        "price": 120,
+        "last_updated": "2025-08-31 02:15:56"
+    },
+    {
+        "id": 37,
+        "name": "Book - Programming",
+        "category": "Books",
+        "price": 35,
+        "last_updated": "2025-08-31 02:18:04"
+    },
+    {
+        "id": 40,
+        "name": "Book - Machine Learning",
+        "category": "Books",
+        "price": 50,
+        "last_updated": "2025-08-31 02:18:04"
+    },
+    {
+        "id": 48,
+        "name": "Book - AI Basics",
+        "category": "Books",
+        "price": 40,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 5,
+        "name": "Headphones X1",
+        "category": "Electronics",
+        "price": 59,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 7,
+        "name": "Smartwatch Z1",
+        "category": "Electronics",
+        "price": 149,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 23,
+        "name": "Microwave 20L",
+        "category": "Home",
+        "price": 130,
+        "last_updated": "2025-08-31 02:15:56"
+    },
+    {
+        "id": 41,
+        "name": "Book - Fiction 1",
+        "category": "Books",
+        "price": 9,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 49,
+        "name": "Book - Data Science",
+        "category": "Books",
+        "price": 45,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 16,
+        "name": "Jacket Leather",
+        "category": "Apparel",
+        "price": 120,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 54,
+        "name": "Sofa 3-Seater",
+        "category": "Furniture",
+        "price": 350,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 2,
+        "name": "Phone A2",
+        "category": "Electronics",
+        "price": 349,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 13,
+        "name": "T-Shirt White",
+        "category": "Apparel",
+        "price": 18,
+        "last_updated": "2025-08-31 01:32:31"
+    },
+    {
+        "id": 24,
+        "name": "Microwave 30L",
+        "category": "Home",
+        "price": 180,
+        "last_updated": "2025-08-31 02:15:56"
+    },
+    {
+        "id": 26,
+        "name": "Refrigerator 250L",
+        "category": "Home",
+        "price": 499,
+        "last_updated": "2025-08-31 02:15:56"
+    },
+    {
+        "id": 33,
+        "name": "Book - Fiction 3",
+        "category": "Books",
+        "price": 11.700000000000001,                   
+        "last_updated": "2025-08-31 02:18:04"
+    },
+    {
+        "id": 46,
+        "name": "Book - Science",
+        "category": "Books",
+        "price": 22.5,
+        "last_updated": "2025-08-31 02:29:22"
+    },
+    {
+        "id": 4,
+        "name": "Laptop B2",
+        "category": "Electronics",
+        "price": 999,
+        "last_updated": "2025-08-31 01:32:31"
+    }
+]
