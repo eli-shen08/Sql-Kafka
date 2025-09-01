@@ -62,6 +62,8 @@ This mini project demonstrates a real-time data pipeline using Apache Kafka. A c
    4. Run Producer code and consumer code
    5. Insert records into the sql table
    6. And watch it unfold.
+  
+If you want to see a video of this mini project click [here](https://www.linkedin.com/posts/rahul-mondal08_dataengineering-apachekafka-streaming-activity-7368382456648986624-XZgT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7SvPEBnRDCQRQtqP9ijHIkwsG9Z5eecsA)
    
    
 
